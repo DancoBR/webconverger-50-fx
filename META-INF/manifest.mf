@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ah1xxQP5fZYWocz/I7Alow==
+SHA1-Digest: seQNgUjkWAzTVNGN77ri/fdlP7g=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0ElxlopWvt/q91DlS27qsg==
+SHA1-Digest: omR3TZZtRRFZyvHVB33xHifXaqQ=
+
+Name: components/aboutHome.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gePqC1k/TNK5K6KMdjpp0g==
+SHA1-Digest: 4omB2nvVVT7ovSF7yClmRMRd8Kw=
+
+Name: components/fileBlockService.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e8aeAbkxNoOjVj7rOaBqyQ==
+SHA1-Digest: Xql+GeXxdRLqC3cCSLy/5MWQWOk=
+
+Name: components/noHelperAppDlg.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7VF+mv7kcL/yo8i8UMSiWw==
+SHA1-Digest: cdc8+TrRaB9xmf/VPmFcUP+f580=
+
+Name: components/webconvergerService.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H6FoWoRXHkJkoj0BSDraMg==
+SHA1-Digest: PnXZnOBU349xDZzUq0uLQGxCfZY=
+
+Name: content/about.xhtml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2j7wGW58a+VXGRleA+uk7Q==
+SHA1-Digest: aBtUjenCn7ZlX1sF42GnhFPN2wI=
+
+Name: content/blank.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s+Dn+GZYLLgP9WSFEPA7VQ==
+SHA1-Digest: dmXeiKt8Py/W0axzuOUUWy+GIKA=
+
+Name: content/downloads.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /ah7g+8k3NhCPOKft8efBA==
+SHA1-Digest: SKRnPWWt3aiJ6kdSTf7j9sN2ydM=
+
+Name: content/unknownContentType.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZVUQcg0LZNKZPdib9NzStA==
+SHA1-Digest: UdA6BgDeywRk4IOkexeE1OXwEqw=
+
+Name: content/wc.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gXyF4DAQLzRxKtDPbOr/HQ==
+SHA1-Digest: zAT5jw+zouQ/WF7pnfyXfl1vDVI=
+
+Name: content/wc.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uoRvPYYN+QvXyMcVLyPPyA==
+SHA1-Digest: 6zlpmCdFQbywne5qeWL6EfcMTaM=
+
+Name: content/wc.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Cqi68ySiimqajNCwWpgzEw==
+SHA1-Digest: vtDVgzsRbSaGp2nv2L4Rq0MlIDQ=
+
+Name: content/webclogo.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1o1LIYrt5icqDmYbbCE7Ig==
+SHA1-Digest: OL5v4vu/5XLuuoPaC+lzGVfCNrY=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0JwvhOAchBaK/Idn7vn5qw==
+SHA1-Digest: bUcH4Nen+0f6LcRtS160vfVz+HE=
+
+Name: modules/webconvergerModule.jsm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MuESBiPu5TT2s4sUx+/vCQ==
+SHA1-Digest: nYsH3wPDfvjCmy6u6YONn00z2bw=
+
